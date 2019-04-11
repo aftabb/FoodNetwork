@@ -1,0 +1,4 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(›όβ£8θ€ω-
+‘"squid:ClassVariableVisibilityCheck"YMake sdkInteractor a static final constant or non-public and provide accessors if needed.(µ¦†ώÿÿÿÿ8θ€ω-
+Tsquid:S1444"3Make this "public static sdkInteractor" field final(µ¦†ώÿÿÿÿ8θ€ω-

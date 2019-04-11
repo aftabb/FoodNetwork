@@ -1,0 +1,7 @@
+
+U"squid:SwitchLastCaseIsDefaultCheckk""Add a default case to this switch.(‰¬›Áÿÿÿÿÿ
+Gsquid:S1066€"/Merge this if statement with the enclosing one.(ÁÚî§
+gsquid:S1301k"KReplace this "switch" statement by "if" statements to increase readability.(‰¬›Áÿÿÿÿÿ
+Fsquid:S00108k")Either remove or fill this block of code.(‰¬›Áÿÿÿÿÿ
+^squid:S00112®"FDefine and throw a dedicated exception instead of using a generic one.(”é÷A
+nsquid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–¯Öøÿÿÿÿ

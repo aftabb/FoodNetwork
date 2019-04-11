@@ -1,0 +1,7 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“´êĞùÿÿÿÿ8™ñ¦€-
+Jsquid:S1905"/Remove this unnecessary cast to "RecyclerView".(Ö‘â&8™ñ¦€-
+nsquid:S1192"MDefine a constant instead of duplicating this literal "gattCallback" 3 times.(ˆÎË§üÿÿÿÿ8™ñ¦€-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ „î8™ñ¦€-
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ª»Èùÿÿÿÿ8™ñ¦€-
+Tsquid:S2387"8"mHandler" is the name of a field in "FragmentActivity".(€£öò8™ñ¦€-

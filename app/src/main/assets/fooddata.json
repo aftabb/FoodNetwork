@@ -1,0 +1,54 @@
+{
+  "data": {
+    "Item0": [
+      {
+        "name": "Crispy Chicken Sandwich",
+        "category": "BBQ Chicken",
+        "ratings": 2.4,
+        "favourited": true,
+        "imageUrl": "",
+        "amount": "$25"
+      },
+      {
+        "name": "Chicken Sendwitch",
+        "category": "Breakfast",
+        "ratings": 4.5,
+        "favourited": false,
+        "imageUrl": "",
+        "amount": "$50"
+      },
+      {
+        "name": "Egg Fried Meggie",
+        "category": "snacks",
+        "ratings": 3.5,
+        "favourited": true,
+        "imageUrl": "",
+        "amount": "$55"
+      },
+      {
+        "name": "Chicken Fried Rice",
+        "category": "snacks",
+        "ratings": 5.0,
+        "favourited": true,
+        "imageUrl": "",
+        "amount": "$55"
+      }
+    ],
+    "Restaurants": [
+      {
+        "name": "Concard Chicago Restaurant",
+        "address": "963 Drice Suite",
+        "rating": 5.0,
+        "opentime": "10.0 AM",
+        "closetime": "10.0 PM"
+      },
+      {
+        "name": "Concard Chicago Restaurant",
+        "address": "963 Drice Suite",
+        "rating": 5.0,
+        "opentime": "10.0 AM",
+        "closetime": "10.0 PM"
+      }
+    ]
+  }
+}

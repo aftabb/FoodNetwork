@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodNetwork</string>
+    <string name="intro1_text">Discover \n Place Near You</string>
+    <string name="intro2_text">Choose A Tasty \n Dish</string>
+    <string name="intro3_text">Pickup or Delivery</string>
+    <string name="intro1_text_details">We make it simple to find food you \n crave. Enter your address and let us do the rest. </string>
+    <string name="get_started">Get Started</string>
+</resources>
